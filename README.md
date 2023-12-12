@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Noor Muhammad</h1>
+<img align='right' alt='coding' widht='400' src='https://media1.tenor.com/m/wA8Gx_UqnY4AAAAC/coding.gif'></img>
+
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 - 🔭 I’m currently working on **PHP/LARAVEL**
