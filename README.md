@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Backend Laravel**
 
-- 👨‍💻 All of my projects are available at [noormuhammad.netlify.app](noormuhammad.netlify.app)
+- 👨‍💻 All of my projects are available at https://noormuhammad.netlify.app
 
 - 💬 Ask me about **HTML/Javascript/Boostrap/Jquery/PHP/Laravel**
 
